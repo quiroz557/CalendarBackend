@@ -10,5 +10,9 @@
             "src": "/(.*)",
             "dest": "/"
         }
-    ]
+    ],
+    "env": {
+        "DB_CNN": "mongodb+srv://pablo557:GkAY8byudjqigFBP@calendardb.khe4kps.mongodb.net/",
+        "SECRET_JWT_SEED": "Estœ_es_una_palabr@_SecretA1234"
+    }
 }
